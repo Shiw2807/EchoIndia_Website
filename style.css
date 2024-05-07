@@ -19,7 +19,7 @@
 
 body {
     height: 300px;
-    background: url("https://www.echoindia.in/static/ea85fb3d1e7db93ebd676891540d563e/8dbcc/Uh1kbl6C4rWNU1b8tvmuJ3hzRwLecBtBFQev8fLhpuA.jpg") no-repeat;
+    background: url("/assests/slide1.jpg") no-repeat;
     background-position: center;
     background-size: cover;
 }
